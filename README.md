@@ -1,5 +1,5 @@
 
-Đây là README được chỉnh sửa từ nhánh main.
+Đây là README được chỉnh sửa từ feature-update-B.
 
 Đây là README được chỉnh sửa từ nhánh 
 
